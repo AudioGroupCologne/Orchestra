@@ -1,0 +1,21 @@
+[submodule "aframe-bytebeat"]
+	path = aframe-bytebeat
+	url = https://github.com/AudioGroupCologne/aframe-bytebeat
+[submodule "aframe-stackbeat"]
+	path = aframe-stackbeat
+	url = https://github.com/AudioGroupCologne/aframe-stackbeat
+[submodule "aframe-jibniz"]
+	path = aframe-jibniz
+	url = https://github.com/AudioGroupCologne/aframe-jibniz
+[submodule "PdXR"]
+	path = PdXR
+	url = https://github.com/AudioGroupCologne/PdXR
+[submodule "aframe-kinectron"]
+	path = aframe-kinectron
+	url = https://github.com/kinectron/AFrame-Kinectron
+[submodule "aframe-resonance-audio-component"]
+	path = aframe-resonance-audio-component
+	url = https://github.com/AudioGroupCologne/aframe-resonance-audio-component
+[submodule "aframe-super-keyboard"]
+	path = aframe-super-keyboard
+	url = https://github.com/AudioGroupCologne/aframe-super-keyboard
