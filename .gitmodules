@@ -19,3 +19,6 @@
 [submodule "aframe-super-keyboard"]
 	path = aframe-super-keyboard
 	url = https://github.com/AudioGroupCologne/aframe-super-keyboard
+[submodule "networked-resonance-audio"]
+	path = networked-resonance-audio
+	url = https://github.com/AudioGroupCologne/networked-resonance-audio
