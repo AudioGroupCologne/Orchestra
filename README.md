@@ -22,3 +22,6 @@ are added to this project
 ## Acknowledgments
 
 see repositories of included components for credits and acknowledgments.
+
+<br> 
+<img src = "x_TH_footer.png">
