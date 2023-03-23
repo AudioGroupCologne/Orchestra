@@ -1,7 +1,8 @@
 # Orchestra - toolbox for Live Music Performances in the Metaverse 
 
-Orchestra is an open-source for live music performancen in metaverse environments. 
-
+Orchestra is an open-source for live music performances in metaverse environments. 
+Orchestra includes components for live performances in A-Frame/NAF-based metaverse environments, with real-time streaming of volumetric video and audio (`aframe-kinectron`, `networked-resonance-audio`) , live coding (`aframe-bytebeat`, `aframe-stackbeat`, `aframe-jibniz`) and the integration
+of [PureData](https://github.com/pure-data/) for performances with virtual instruments and interactive algorithms.    
 
 ## Dependencies
 
@@ -14,7 +15,7 @@ are added to this project
 
 ## Usage
 
-### See the repositories of the individual components for documentation.
+### See the repositories of the individual components for documentation and implementation.
 
 
 
